@@ -1,7 +1,6 @@
 # 🌳 Global Deforestation & Carbon Emissions Analysis (2001–2022)
 
-[![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)  
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
+[![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-orange)](https://www.kaggle.com/)
 
 This project investigates global deforestation trends from 2001 to 2022 and analyzes their impact on net carbon emissions. It identifies key factors driving carbon emissions and highlights the most affected countries and regions.
