@@ -66,10 +66,12 @@ This project investigates global deforestation trends from 2001 to 2022 and anal
 ---
 
 
-## Future Work** 
+## Future Work
 1. Include more recent and granular datasets.
 2. Build predictive machine learning models to forecast carbon emissions
 3. Develop interactive front end for dynmanic visualization
 
-##Author
+
+
+## Author
 Sahaj Sharma
