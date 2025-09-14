@@ -65,15 +65,8 @@ This project investigates global deforestation trends from 2001 to 2022 and anal
 
 ---
 
-## ⚡ How to Run
 
-1. Clone the repository  
-2. Install dependencies:  
-   ```bash
- pip install -r requirements.txt
-3. Open notebooks in Kaggle or Jupyter and run cells sequentially 
-
-##Future Work 
+## Future Work** 
 1. Include more recent and granular datasets.
 2. Build predictive machine learning models to forecast carbon emissions
 3. Develop interactive front end for dynmanic visualization
